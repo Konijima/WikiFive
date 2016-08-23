@@ -1,6 +1,5 @@
 ![WikiV](https://camo.githubusercontent.com/f8a966ec6c29903673fb7061debbfa1c3a6d2c39/687474703a2f2f6b6f6e696a696d612e636f6d2f57696b69562e706e67)  
 ### Lists:
-[Alignments](https://github.com/Konijima/WikiFive/wiki/Alignments)  
 [Audio Flags](https://github.com/Konijima/WikiFive/wiki/Audio-Flags)  
 [Buttons](https://github.com/Konijima/WikiFive/wiki/Buttons)  
 [Blip Colors](https://github.com/Konijima/WikiFive/wiki/Blip-Colors)  
@@ -11,6 +10,7 @@
 [Fonts](https://github.com/Konijima/WikiFive/wiki/Fonts)  
 [Helmet Types](https://github.com/Konijima/WikiFive/wiki/Helmet-Types)  
 [Intersect Options](https://github.com/Konijima/WikiFive/wiki/Intersect-Options)  
+[Justify Types](https://github.com/Konijima/WikiFive/wiki/Justify-Types)  
 [KeyCodes](https://github.com/Konijima/WikiFive/wiki/KeyCodes)  
 [Marker Types](https://github.com/Konijima/WikiFive/wiki/Marker-Types)  
 [Parachute Tints](https://github.com/Konijima/WikiFive/wiki/Parachute-Tints)  
@@ -31,7 +31,6 @@
 [Vehicle ToggleMod Types](https://github.com/Konijima/WikiFive/wiki/Vehicle-ToggleMod-Types)  
 [Vehicle Wheel Types](https://github.com/Konijima/WikiFive/wiki/Vehicle-Wheel-Types)  
 [Vehicle Window Indexes](https://github.com/Konijima/WikiFive/wiki/Vehicle-Window-Indexes)  
-[Vehicle Driving Flags](https://github.com/Konijima/WikiFive/wiki/Vehicle-Driving-Flags)  
 [Weapon Tints](https://github.com/Konijima/WikiFive/wiki/Weapon-Tints)  
 [Weapon Hash](https://github.com/Konijima/WikiFive/wiki/Weapon-Hash)  
 [Weapon Groups](https://github.com/Konijima/WikiFive/wiki/Weapon-Groups)  
