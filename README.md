@@ -1,7 +1,9 @@
 ![WikiV](https://camo.githubusercontent.com/f8a966ec6c29903673fb7061debbfa1c3a6d2c39/687474703a2f2f6b6f6e696a696d612e636f6d2f57696b69562e706e67)  
 ### Lists:
 [Blip Sprites](https://github.com/Konijima/WikiFive/wiki/Blip-Sprites)  
+[Controls](https://github.com/Konijima/WikiFive/wiki/Controls)  
 [Driving Styles](https://github.com/Konijima/WikiFive/wiki/Driving-Styles)  
+[Markers/Checkpoints](https://github.com/Konijima/WikiFive/wiki/Markers-Checkpoints)  
 [Parachute Tints](https://github.com/Konijima/WikiFive/wiki/Parachute-Tints)  
 [Parachute States](https://github.com/Konijima/WikiFive/wiki/Parachute-States)  
 [Parachute Landing Types](https://github.com/Konijima/WikiFive/wiki/Parachute-Landing-Types)  
