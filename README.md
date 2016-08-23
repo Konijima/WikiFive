@@ -1,4 +1,8 @@
 ![WikiV](https://camo.githubusercontent.com/f8a966ec6c29903673fb7061debbfa1c3a6d2c39/687474703a2f2f6b6f6e696a696d612e636f6d2f57696b69562e706e67)  
+
+Welcome on **WikiFive**, I decided to regroup all information about **GTA V** in one single place.  
+I chose **GitHub** for the simplicity of it's design and the possibility to upload files and folders.
+
 ### Lists:
 [Blip Sprites](https://github.com/Konijima/WikiFive/wiki/Blip-Sprites)  
 [Controls](https://github.com/Konijima/WikiFive/wiki/Controls)  
