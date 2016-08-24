@@ -1,5 +1,6 @@
 ![WikiV](https://camo.githubusercontent.com/f8a966ec6c29903673fb7061debbfa1c3a6d2c39/687474703a2f2f6b6f6e696a696d612e636f6d2f57696b69562e706e67)  
 ### Lists:
+[All Props](https://github.com/Konijima/WikiFive/wiki/All-Props)  
 [Audio Flags](https://github.com/Konijima/WikiFive/wiki/Audio-Flags)  
 [Buttons](https://github.com/Konijima/WikiFive/wiki/Buttons)  
 [Blip Colors](https://github.com/Konijima/WikiFive/wiki/Blip-Colors)  
@@ -36,6 +37,6 @@
 [Weapon Groups](https://github.com/Konijima/WikiFive/wiki/Weapon-Groups)  
 [Weapon Display Names](https://github.com/Konijima/WikiFive/wiki/Weapon-Display-Names)  
 [Weapon Component Hash](https://github.com/Konijima/WikiFive/wiki/Weapon-Component-Hash)  
-[Weathers](https://github.com/Konijima/WikiFive/wiki/Weathers)  
+[Weather Types](https://github.com/Konijima/WikiFive/wiki/Weather-Types)  
 [Window Title](https://github.com/Konijima/WikiFive/wiki/Window-Title)  
 [ZoneID](https://github.com/Konijima/WikiFive/wiki/ZoneID)  
